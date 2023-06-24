@@ -1,6 +1,6 @@
 
 _____________________________________
-![Welcome](Gif/welcome.gif)
+![Welcome](Gif/Welcome.gif)
 I have been a teacher since I was 21 years old. But a unique opportunity has come into my life.mDreams come true and you just have to wait long enough.
 
 My professional life has recently taken an incredible turn. After working for so many years in another sector, I have launched into a personal project studying programming.
