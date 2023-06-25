@@ -1,7 +1,7 @@
 
 _____________________________________
 ![Welcome](Gif/Welcome.gif)
-I have been a teacher since I was 21 years old. But a unique opportunity has come into my life.mDreams come true and you just have to wait long enough.
+I have been a teacher since I was 21 years old. But a unique opportunity has come into my life.Dreams come true and I just have to wait long enough.
 
 My professional life has recently taken an incredible turn. After working for so many years in another sector, I have launched into a personal project studying programming.
 
@@ -33,7 +33,7 @@ Currently, I am doing a Full-stack developer bootcamp, learning the great things
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png" alt="bootstrap" style="margin: 5px"width="60" heigth="60"/> 
 <img src="https://w7.pngwing.com/pngs/115/721/png-transparent-trello-social-icons-icon.png" alt="trello" style="margin: 5px" width="50" heigth="50"/>
  <img src="https://1000marcas.net/wp-content/uploads/2020/01/logo-Canva.png" style="margin: 5px"width="60" heigth="60"/>
- <img src="https://www.nicepng.com/png/detail/230-2304483_moodle-logo-moodle.png" style="margin: 5px" width="60" heigth="60"/>
+
  </div></td><td valign="top" width="33%">
 
 ### 💻 A list of another technologies used in this proyect
@@ -44,5 +44,10 @@ A list of technologies or tools used within the project:
 * [PseInt](https://pseint.sourceforge.net/)
 *  [Slack](https://slack.com/intl/es-es)
 *  [Zoom](https://zoom.us/es)
+*  [Notion](https://www.notion.so/)
+*  [Moodle](https://moodle.org/?lang=es)
+*  [Shoology](https://www.powerschool.com/classroom/schoology-learning/)
+*  
 
 ____________________________________________
+![Footer](Gif/Footer.gif)
