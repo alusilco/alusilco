@@ -1,11 +1,17 @@
 
 _____________________________________
 ![Welcome](Gif/Welcome.gif)
-I have been a teacher since I was 21 years old. But a unique opportunity has come into my life.Dreams come true and I just have to wait long enough.
+🔭 I’m currently working on my profile because I am studying to be better in my area.
 
-My professional life has recently taken an incredible turn. After working for so many years in another sector, I have launched into a personal project studying programming.
+👯 I’m looking to collaborate on a good project.
 
-Currently, I am doing a Full-stack developer bootcamp, learning the great things about languages ​​every day and getting to know a new and exciting world.
+🤝 I’m looking for help with Java because I´m learning.
+
+🌱 I’m currently learning every day something new in the world of programming like e-commerce, disrruptive habilities, community manager, etc.
+
+💬 Ask me about my experience as a teacher since I was 21 years old and about how dreams come true if you wait long enough.
+
+⚡ Curios fact: I have been a teacher since I was 21 years old, but recently I have decided to make a change in my professional life and I have embarked on studying programming. Now I am doing a Full-stack developer bootcamp, learning amazing things about different languages and exploring a new and exciting world.
 
 ### Contact me
 - My mail is coderalsc@gmail.com
