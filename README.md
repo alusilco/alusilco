@@ -33,5 +33,7 @@ ________________________________________________________________________________
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alusilco&hide_progress=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alusilco&theme=highcontrast&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
+
 <div align="center" style="background-color: white;">
   
